@@ -1,0 +1,23 @@
+[
+  "test_LogOff.py::testCalculation",
+  "test_LogOff.py::testLogin",
+  "test_LogOff.py::testLogoff",
+  "test_Login.py::testCalculation",
+  "test_Login.py::testCalculation1",
+  "test_Login.py::testLogin",
+  "test_Login.py::testLogoff",
+  "test_additems.py::testCalculation",
+  "test_additems.py::testLogin",
+  "test_additems.py::testLogoff",
+  "test_cart.py::testAddItemtoCart",
+  "test_cart.py::testRemoveitemfromCart",
+  "test_checkout.py::testCalculation",
+  "test_checkout.py::testLogin",
+  "test_checkout.py::testLogoff",
+  "test_paramdemo.py::testAdd[2-6-8]",
+  "test_paramdemo.py::testAdd[5-10-15]",
+  "test_paramdemo.py::testAdd[5-8-15]",
+  "test_paramdemo.py::testLogin",
+  "test_paramdemo.py::testLogin[a]",
+  "test_paramdemo.py::testLogin[b]"
+]

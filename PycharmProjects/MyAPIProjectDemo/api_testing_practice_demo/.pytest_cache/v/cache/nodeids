@@ -1,0 +1,4 @@
+[
+  "api_practice1.py::test_get_request_verify_status_code",
+  "api_practice1.py::test_get_response_headers_content_type"
+]

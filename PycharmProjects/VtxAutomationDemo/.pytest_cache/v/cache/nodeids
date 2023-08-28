@@ -1,0 +1,4 @@
+[
+  "testcases/test_vtxcategoryreviewpage.py::TestCategoryReviewPage::test_category_review_page",
+  "testcases/test_vtxloginpage.py::TestLoginPage::test_login_page"
+]

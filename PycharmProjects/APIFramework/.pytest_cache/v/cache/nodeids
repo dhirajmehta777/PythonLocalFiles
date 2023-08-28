@@ -1,0 +1,8 @@
+[
+  "test_crud_operations/test_delete_request.py::Test_delete_api_operations::test_delete_request_operations",
+  "test_crud_operations/test_get_request.py::Test_get_api_operations::test_get_request_operations",
+  "test_crud_operations/test_get_request.py::Test_get_api_operations::test_get_request_status_code",
+  "test_crud_operations/test_post_request.py::Test_post_api_operations::test_post_request_operations",
+  "test_crud_operations/test_put_request.py::Test_put_api_operations::test_post_request_operations",
+  "test_crud_operations/test_put_request.py::Test_put_api_operations::test_put_request_operations"
+]

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea7f64d0-92d2-4caa-a05f-0e3209c87741" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../APIFramework.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/.idea/APIFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/configurations/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/crud_operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/crud_operations/delete_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/crud_operations/get_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/crud_operations/post_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/crud_operations/put_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/test_crud_operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/test_crud_operations/test_delete_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/test_crud_operations/test_get_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/test_crud_operations/test_post_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/test_crud_operations/test_put_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/utilities/post_payload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/utilities/put_payload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APIFramework/utilities/read_properties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_Documentation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_Documentation/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pytest_Documentation/test_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_framework_by_lambdatesttutorial/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_framework_by_lambdatesttutorial/pytest_tutorial_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/Basics/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/Basics/launchbrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/Basics/strprog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningPython/python_interview_quetions/interview_que_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/.idea/MyAPIProjectDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/api_test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/api_test7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/api_test8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/test_api3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/test_api4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/test_api5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/test_apitest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/API_Testing_Demo/test_apitestdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/api_exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/api_exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/api_exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/api_exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/api_exercise5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_exercises/api_exercise6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_framwork_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_framwork_demo/configurations/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_framwork_demo/test_crud_operation_files/post_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_framwork_demo/test_crud_operation_files/test_get_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_practice_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_practice_demo/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_practice_demo/test_api_practice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_practice_demo/test_api_practice2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/api_testing_practice_demo/test_api_practice3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyAPIProjectDemo/utilities/readproperties.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/GCD_of_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/addition_and_substraction_of_two_matrixes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/bubble_sort_algorithm_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/check_entered_number_is_prime_or_not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/co_prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/co_prime_in_particular_limit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/count_vowels_in_given_sentance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/factorial_program_using_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/factorial_program_using_in_build_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/factorial_using_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/fiboacci_series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/flyoids_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/format_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/get_max_value_from_nested_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/guess_the_output_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/indexex_of_duplicate_values_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/palindrome_date_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/palindrome_string_0r_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/palindromic_prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/palindromic_prime_numbers_in_given_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/perfect_number_in_given_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/print_numbers_in_pyramid_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/print_pyramid_shape_star_using_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/print_stars_in_hollow_equilateral_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/print_stars_using_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_nos_in_rtangle_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_nos_in_rtangle_shape_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_numbers_in_rtangle_shap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_numbers_in_square_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_prime_nos_in_given_interval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_stars_in_hollow_diamond_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_stars_in_hollow_rtangle_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/printing_strings_in_rtangle_shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/quick_sort_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/reverse_string_using_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/selection_sort_algorithm_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/selection_sort_algorithm_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/selection_sort_algorithm_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/sorted_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/stars_hallow_reverse_rtangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/sum_of_digits_of_positive_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/swaping_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Basic_Programs_Using_Python/validate_date_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/ClosuresAndDecorators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/ClosuresAndDecorators/standardize_mobile_number_using_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/Dot_and_Cross.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/array_mathematics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/basics_of_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/concatenate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/eye_and_identity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/floor_ceil_rint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/inner_and_outer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/min_and_max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/numpy_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/shape_and_reshape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/sum_and_prod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/transpose_and_flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Numpy_HackerRank_Problems/zeros_and_ones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/count_frequency_of_char_in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/longest_word_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/mid_index_of_a_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/print_first_and_last_two_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/replace_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/replace_fun_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Interview_Prog/start_and_end_index_of_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/alphabates_followed_by_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/alphanumeric_prog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/alphanumeric_prog_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/alphanumeric_prog_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/anagram_prog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/count_char_occurance_in string_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/count_no_of_occurances_of_vowels_in_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/count_occurance_of_char_using_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/generate_words_from_given_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/no_of_occurance_of_each_char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/palindrome_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/print_char_at_even_and_odd_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/remove_duplicates_from_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/reverse_every_second_word_in_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/reverse_internal_content_of_each_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/reverse_order_or_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPrograms/Python_Programs_by_Durga/reversed_str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonWithSelenium/LearningSelenium/SwaglabsAutomation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonWithSelenium/LearningSelenium/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hrmsAutomation/Pages/swaglabloginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synerzipAutoDemo/testcases/test_attendancepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../synerzipAutoDemo3.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LearningPython/Basics/Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LearningPython/Basics/Polymorphism.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synerzipAutoDemo/configurations/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../synerzipAutoDemo/configurations/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synerzipAutoDemo/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synerzipAutoDemo/pages/attendancepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../synerzipAutoDemo/pages/attendancepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synerzipAutoDemo/utilities/readproperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/../synerzipAutoDemo/utilities/readproperties.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IaMZKGrkQ6KOgve3oRoc6RPfOU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/excellarate/PycharmProjects/APIFramework",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.conftest">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearnPyTest/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_cart.testRemoveitemfromCart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningPytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_cart.testRemoveitemfromCart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_paramdemo.testLogin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningPytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_paramdemo.testLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_cart.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningPytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/LearnPyTest/test_cart.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_paramdemo.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningPytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearnPyTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/LearnPyTest/test_paramdemo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.Python tests in test_paramdemo.py" />
+        <item itemvalue="Python tests.Python tests for test_paramdemo.testLogin" />
+        <item itemvalue="Python tests.Python tests in test_cart.py" />
+        <item itemvalue="Python tests.Python tests for test_cart.testRemoveitemfromCart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea7f64d0-92d2-4caa-a05f-0e3209c87741" name="Changes" comment="" />
+      <created>1670415294344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670415294344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

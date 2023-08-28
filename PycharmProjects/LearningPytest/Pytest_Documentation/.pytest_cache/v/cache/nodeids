@@ -1,0 +1,7 @@
+[
+  "fixtures.py::test_first",
+  "fixtures.py::test_second",
+  "fixtures.py::test_third",
+  "test_sample.py::test_answer",
+  "test_sample.py::test_case01"
+]

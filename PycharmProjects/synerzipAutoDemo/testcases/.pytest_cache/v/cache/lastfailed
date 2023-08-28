@@ -1,0 +1,5 @@
+{
+  "test_homepage.py::TestHomePage::test_home_page": true,
+  "test_directorypage.py::TestDirectoryPage::test_directory_page": true,
+  "test_attendancepage.py::TestAttendance::test_elements_of_attendance_page": true
+}

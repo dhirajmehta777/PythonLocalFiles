@@ -1,0 +1,19 @@
+#Reverse Hill Pattern:
+"""
+  * * * * * * * * *
+    * * * * * * *
+      * * * * *
+        * * *
+          *
+
+here increasing triangle with space and followed by two decreasing triangle with *
+"""
+n=5
+for i in range(n):
+    for j in range(i+1):
+        print(' ',end=' ')
+    for j in range(i,n-1):
+        print('*',end=' ')
+    for j in range(i,n):
+        print('*',end=' ')
+    print()

@@ -1,0 +1,8 @@
+[
+  "testcases/test_attendancepage.py::TestAttendance::test_elements_of_attendance_page",
+  "testcases/test_directorypage.py::TestDirectoryPage::test_directory_page",
+  "testcases/test_homepage.py::TestHomePage::test_home_page",
+  "testcases/test_infopage.py::TestInfoPage::test_verify_personal_info",
+  "testcases/test_loginpage.py::TestLoginPage::test_login_page",
+  "testcases/test_performancepage.py::TestPerformancePage::test_elements_of_performance_page"
+]

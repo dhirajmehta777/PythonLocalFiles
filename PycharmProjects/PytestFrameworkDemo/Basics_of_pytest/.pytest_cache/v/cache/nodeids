@@ -1,0 +1,8 @@
+[
+  "test_file2.py::testMethod3",
+  "test_file2.py::testMethod4",
+  "test_file3.py::testMethod5",
+  "test_file3.py::testMethod6",
+  "testfile1.py::testMethod1",
+  "testfile1.py::testMethod2"
+]

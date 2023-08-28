@@ -1,0 +1,4 @@
+[
+  "Tests/test_loginPage.py::TestLoginPage::test_login",
+  "Tests/test_loginPage.py::TestLoginPage::test_login_page_title"
+]

@@ -1,0 +1,12 @@
+[
+  "Basics_of_pytest/test_file1.py::testMethod1",
+  "Basics_of_pytest/test_file1.py::testMethod2",
+  "Basics_of_pytest/test_file2.py::testMethod3",
+  "Basics_of_pytest/test_file2.py::testMethod4",
+  "Basics_of_pytest/test_file3.py::testMethod5",
+  "Basics_of_pytest/test_file3.py::testMethod6",
+  "MyPack/test_Login.py::test_loginByemail",
+  "MyPack/test_Login.py::test_loginByfacebook",
+  "MyPack/test_SignUp.py::test_signupByemail",
+  "MyPack/test_SignUp.py::test_signupByfacebook"
+]

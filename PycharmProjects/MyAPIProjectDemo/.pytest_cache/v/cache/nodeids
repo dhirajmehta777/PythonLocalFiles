@@ -1,0 +1,18 @@
+[
+  "API_Testing_Demo/test_apitest.py::test_api_get",
+  "API_Testing_Demo/test_apitest.py::test_api_post",
+  "API_Testing_Demo/test_apitestdemo.py::test_to_verfy_updation_of_newly_created_api_resource",
+  "API_Testing_Demo/test_apitestdemo.py::test_to_verify_creation_of_new_resource_api",
+  "API_Testing_Demo/test_apitestdemo.py::test_to_verify_endpoint_response",
+  "api_testing_practice_demo/test_api_practice1.py::test_get_request_verify_status_code",
+  "api_testing_practice_demo/test_api_practice1.py::test_get_response_headers_content_type",
+  "api_testing_practice_demo/test_api_practice1.py::test_to_get_size_of_response_body",
+  "api_testing_practice_demo/test_api_practice1.py::test_to_get_size_of_response_body_of_specific_list_element",
+  "api_testing_practice_demo/test_api_practice1.py::test_to_verify_get_response_body",
+  "api_testing_practice_demo/test_api_practice2.py::test_post_request_verify_status_code",
+  "api_testing_practice_demo/test_api_practice2.py::test_post_response_headers_content_type",
+  "api_testing_practice_demo/test_api_practice2.py::test_to_verify_post_response_body",
+  "api_testing_practice_demo/test_api_practice3.py::test_to_verify_update_response_body",
+  "api_testing_practice_demo/test_api_practice3.py::test_update_request_verify_status_code",
+  "api_testing_practice_demo/test_api_practice3.py::test_update_response_headers_content_type"
+]

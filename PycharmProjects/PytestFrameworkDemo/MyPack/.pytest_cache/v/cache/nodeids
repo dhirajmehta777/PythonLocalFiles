@@ -1,0 +1,6 @@
+[
+  "test_Login.py::test_loginByemail",
+  "test_Login.py::test_loginByfacebook",
+  "test_SignUp.py::test_signupByemail",
+  "test_SignUp.py::test_signupByfacebook"
+]

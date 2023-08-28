@@ -1,0 +1,19 @@
+{
+  "LearnPyTest/test_LogOff.py::testLogin": true,
+  "LearnPyTest/test_LogOff.py::testLogoff": true,
+  "LearnPyTest/test_LogOff.py::testCalculation": true,
+  "LearnPyTest/test_Login.py::testLogoff": true,
+  "LearnPyTest/test_Login.py::testCalculation": true,
+  "LearnPyTest/test_additems.py::testLogin": true,
+  "LearnPyTest/test_additems.py::testLogoff": true,
+  "LearnPyTest/test_additems.py::testCalculation": true,
+  "LearnPyTest/test_cart.py::testAddItemtoCart": true,
+  "LearnPyTest/test_cart.py::testRemoveitemfromCart": true,
+  "LearnPyTest/test_checkout.py::testLogin": true,
+  "LearnPyTest/test_checkout.py::testLogoff": true,
+  "LearnPyTest/test_checkout.py::testCalculation": true,
+  "LearnPyTest/test_paramdemo.py::testAdd[2-6-8]": true,
+  "LearnPyTest/test_paramdemo.py::testAdd[5-8-13]": true,
+  "LearnPyTest/test_paramdemo.py::testAdd[5-10-15]": true,
+  "Pytest_Documentation/test_sample.py::TestClass::test_two": true
+}
